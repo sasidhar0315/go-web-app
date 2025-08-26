@@ -4,7 +4,7 @@ This is a simple website written in Golang. It uses the `net/http` package to se
 
 ## Running the server
 
-To run the server, execute the following commanding
+To run the server, execute the following commandings
 
 ```bash
 go run main.go
