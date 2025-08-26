@@ -8,7 +8,7 @@ image:
   repository: donsasi/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "17240098018"
+  tag: "17240816537"
 
 ingress:
   enabled: false
